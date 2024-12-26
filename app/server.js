@@ -20,5 +20,3 @@ app.get("/hexToRgb", function (req, res) {
 });
 
 app.listen(PORT);
-
-console.log("app listening in port: ", PORT)
